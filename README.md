@@ -1,12 +1,3 @@
-Com certeza, Higor! É pra já! 🚀🐙
-
-O arquivo README.md usa uma linguagem de formatação chamada Markdown (por isso a extensão .md). Ela serve para deixar o texto bonitão, com títulos, listas e negritos.
-
-Copie todo o bloco de texto abaixo (incluindo os símbolos de # e *) e cole lá naquele espaço em branco do GitHub depois de clicar no Lápis ✏️.
-
-Se quiser alterar alguma coisa para ficar mais parecido com o que seu código realmente faz, fique à vontade!
-
-Markdown
 # 📦 Sistema de Controle de Estoque - Loja Geek (C++)
 
 ## 💻 Sobre o Projeto
