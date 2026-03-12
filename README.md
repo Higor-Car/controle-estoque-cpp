@@ -9,6 +9,7 @@ Repositório destinado a guardar meus exercícios, práticas de lógica de progr
 - Vetores (Arrays unidimensionais)
 - Matrizes (Arrays bidimensionais)
 - Algoritmos de busca e comparação
+- Funçoes sobrecarga e recursivas
 
 ## Tecnologias e Ferramentas
 - C++
