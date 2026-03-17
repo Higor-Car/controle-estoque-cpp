@@ -48,7 +48,7 @@ int main(){
 				break;
 				
 			default:
-				cout<<"Jogo não encontrado!\n";
+				cout<<"Jogo nÃ£o encontrado!\n";
 				break;
 		}
 	
