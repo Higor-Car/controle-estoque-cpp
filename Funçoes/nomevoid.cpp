@@ -22,7 +22,7 @@ return 0;
 }
 
 void nomeCompleto(string nome,string sobrenome){
-	cout<<"Seu nome é: "<<nome<<" "<<sobrenome;	
+	cout<<"Seu nome Ã©: "<<nome<<" "<<sobrenome;	
 }
 
 
