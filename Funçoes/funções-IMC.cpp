@@ -31,10 +31,10 @@ void textoIMC(float calcularIMC){
 	if(calcularIMC<18.5){
 		cout<<"Abaixo do peso!\n";
 	}else if(calcularIMC>=18.5&&calcularIMC<=24.9){
-		cout<<"Você está com o peso normal!\n";
+		cout<<"VocÃª estÃ¡ com o peso normal!\n";
 	}else if(calcularIMC>=25&&calcularIMC<=29.9){
-		cout<<"Você está sobrepeso!\n";
+		cout<<"VocÃª estÃ¡ sobrepeso!\n";
 	}else{
-		cout<<"Você está obeso!\n";
+		cout<<"VocÃª estÃ¡ obeso!\n";
 	}
 }
